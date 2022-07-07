@@ -1,6 +1,6 @@
 # Computer-Vision
 
-Image classification, Object detecrtion and Semantic segmentation. 
+Image classification, Object Detection and Semantic Segmentation. 
 
 
 ## Image Classification
